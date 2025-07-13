@@ -1,0 +1,4 @@
+repository "Game-Dev-Tycoon/Game-Dev-Tycoon@18967608850779@cloud"
+  path "/"
+    br "/main"
+    co "/main"
